@@ -13,6 +13,9 @@ import os
 from os.path import dirname, abspath, join
 BASE_DIR = os.path.dirname(os.path.dirname(__file__))
 
+# from django.conf import settings
+# if not settings.configured:
+#     settings.configure(myapp_defaults, DEBUG=True)
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/1.6/howto/deployment/checklist/
