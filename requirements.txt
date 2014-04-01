@@ -21,7 +21,6 @@ django-compressor==1.3
 django-heroku-postgresify==0.3
 future==0.11.2
 gunicorn==18.0
-progressbar==2.3
 psycopg2==2.5.2
 requests==2.2.1
 sqlparse==0.1.10
